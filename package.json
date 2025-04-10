@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/felipecrs/renovate-volta-constraints/issues"
   },
-  "homepage": "https://github.com/felipecrs/renovate-volta-constraints#readme"
+  "homepage": "https://github.com/felipecrs/renovate-volta-constraints#readme",
+  "engines": {
+    "node": "14",
+    "npm": "6"
+  },
+  "volta": {
+    "node": "14.21.3",
+    "npm": "6.14.18"
+  }
 }
