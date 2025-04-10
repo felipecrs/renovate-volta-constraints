@@ -1,0 +1,21 @@
+{
+  "name": "renovate-volta-constraints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecrs/renovate-volta-constraints.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/felipecrs/renovate-volta-constraints/issues"
+  },
+  "homepage": "https://github.com/felipecrs/renovate-volta-constraints#readme"
+}
