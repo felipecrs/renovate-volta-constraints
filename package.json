@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepare": "npm --version | grep 6.14.18",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,9 +19,8 @@
     "url": "https://github.com/felipecrs/renovate-volta-constraints/issues"
   },
   "homepage": "https://github.com/felipecrs/renovate-volta-constraints#readme",
-  "engines": {
-    "node": "14",
-    "npm": "6"
+  "devDependencies": {
+    "typescript": "^4.9.5"
   },
   "volta": {
     "node": "14.21.3",
